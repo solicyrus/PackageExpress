@@ -1,0 +1,7 @@
+C:\Users\sghan\OneDrive\Desktop\Basic_C#_Programs\PackageExpressQuote\PackageExpressQuote\bin\Debug\PackageExpressQuote.exe.config
+C:\Users\sghan\OneDrive\Desktop\Basic_C#_Programs\PackageExpressQuote\PackageExpressQuote\bin\Debug\PackageExpressQuote.exe
+C:\Users\sghan\OneDrive\Desktop\Basic_C#_Programs\PackageExpressQuote\PackageExpressQuote\bin\Debug\PackageExpressQuote.pdb
+C:\Users\sghan\OneDrive\Desktop\Basic_C#_Programs\PackageExpressQuote\PackageExpressQuote\obj\Debug\PackageExpressQuote.csproj.AssemblyReference.cache
+C:\Users\sghan\OneDrive\Desktop\Basic_C#_Programs\PackageExpressQuote\PackageExpressQuote\obj\Debug\PackageExpressQuote.csproj.CoreCompileInputs.cache
+C:\Users\sghan\OneDrive\Desktop\Basic_C#_Programs\PackageExpressQuote\PackageExpressQuote\obj\Debug\PackageExpressQuote.exe
+C:\Users\sghan\OneDrive\Desktop\Basic_C#_Programs\PackageExpressQuote\PackageExpressQuote\obj\Debug\PackageExpressQuote.pdb
